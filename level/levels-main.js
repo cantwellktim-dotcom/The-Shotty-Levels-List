@@ -30,7 +30,7 @@ const d = {
               },
 
           ],
-          "name": "Shotty cobwebs",
+          "name": "Shotty baana",
           "author": "Coboll",
           "more": "None",
           "id": 83870024,

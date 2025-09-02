@@ -19,6 +19,26 @@ const d = {
           "percentToQualify": 58,
           "verificationVid": "https://youtu.be/bTU47UDkeow",
       },
+      {
+
+          "vids": [
+            {
+                  "user": "Andrew14916",
+                  "link": "https://www.youtube.com/watch?v=CpjmEsfUFhI",
+                  "percent": 100,
+                  "hz": "360hz"
+              },
+
+          ],
+          "name": "Shotty cobwebs",
+          "author": "Coboll",
+          "more": "None",
+          "id": 83870024,
+          "pass": "no copy",
+          "percentToQualify": 58,
+          "verificationVid": "https://youtu.be/bTU47UDkeow",
+      },
+    
     {
 
           "vids": [

@@ -1,5 +1,19 @@
 const d = {
   "list": [
+     {
+
+          "vids": [
+           
+
+          ],
+          "name": "Shotty Thinking Space II",
+          "author": "SirenSkull",
+          "more": "None",
+          "id": 124928360,
+          "pass": "no copy",
+          "percentToQualify": 42,
+          "verificationVid": "https://youtu.be/8Zu-LZB-BDk",
+      },
   {
 
           "vids": [
@@ -12,25 +26,6 @@ const d = {
 
           ],
           "name": "Shotty Cobwebs",
-          "author": "Coboll",
-          "more": "None",
-          "id": 83870024,
-          "pass": "no copy",
-          "percentToQualify": 58,
-          "verificationVid": "https://youtu.be/bTU47UDkeow",
-      },
-      {
-
-          "vids": [
-            {
-                  "user": "Andrew14916",
-                  "link": "https://www.youtube.com/watch?v=CpjmEsfUFhI",
-                  "percent": 100,
-                  "hz": "360hz"
-              },
-
-          ],
-          "name": "Shotty coc",
           "author": "Coboll",
           "more": "None",
           "id": 83870024,

@@ -30,7 +30,7 @@ const d = {
               },
 
           ],
-          "name": "Shotty cobol",
+          "name": "Shotty coc",
           "author": "Coboll",
           "more": "None",
           "id": 83870024,

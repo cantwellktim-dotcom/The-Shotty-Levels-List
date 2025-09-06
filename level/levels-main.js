@@ -3,7 +3,13 @@ const d = {
      {
 
           "vids": [
-           
+             {
+                  "user": "Andrew14916",
+                  "link": "https://youtu.be/T2OMLlh20bE",
+                  "percent": 100,
+                  "hz": "240hz"
+              },
+
 
           ],
           "name": "Shotty Thinking Space II",

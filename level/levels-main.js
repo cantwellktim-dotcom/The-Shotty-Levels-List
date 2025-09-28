@@ -280,7 +280,7 @@ const d = {
         "vids": [
             {
                   "user": "Andrew14916",
-                  "link": "https://youtu.be/k7E0kNEfPBk",
+                  "link": "https://youtu.be/IJ1HMdpLQ_w",
                   "percent": 100,
                   "hz": "240hz"
               },
@@ -297,7 +297,12 @@ const d = {
      {
 
           "vids": [
-          
+           {
+                  "user": "Andrew14916",
+                  "link": "https://www.youtube.com/watch?v=k7E0kNEfPBk",
+                  "percent": 100,
+                  "hz": "240hz"
+              },
           ],
           "name": "Shotty Goner",
           "author": "Coboll",

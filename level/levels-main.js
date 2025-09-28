@@ -126,6 +126,12 @@ const d = {
                   "percent": 100,
                   "hz": "360hz"
               },
+              {
+                  "user": "GAY",
+                  "link": "https://youtu.be/k7E0kNEfPBk",
+                  "percent": 58,
+                  "hz": "360hz"
+              },
 
           ],
           "name": "Shotty Friday Vortex",
@@ -290,7 +296,7 @@ const d = {
                   "user": "Andrew14916",
                   "link": "https://youtu.be/k7E0kNEfPBk",
                   "percent": 100,
-                  "hz": "360hz"
+                  "hz": "240hz"
               },
 
           ],

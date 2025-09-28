@@ -9,6 +9,12 @@ const d = {
                   "percent": 100,
                   "hz": "240hz"
               },
+            {
+                  "user": "Coboll",
+                  "link": "https://youtu.be/ybddyBtm5pU",
+                  "percent": 100,
+                  "hz": "240hz"
+              },
 
 
           ],

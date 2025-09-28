@@ -106,7 +106,8 @@ const d = {
                   "percent": 100,
                   "hz": "360hz"
               },
-               "user": "GAY",
+            {
+                  "user": "GAY",
                   "link": "https://youtu.be/k7E0kNEfPBk",
                   "percent": 58,
                   "hz": "360hz"

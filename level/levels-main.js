@@ -272,6 +272,12 @@ const d = {
     {
 
         "vids": [
+  {
+                  "user": "Andrew14916",
+                  "link": "https://youtu.be/k7E0kNEfPBk",
+                  "percent": 100,
+                  "hz": "240hz"
+              },
 
         ],
         "name": "Shotty Aerial Gleam",
@@ -285,13 +291,7 @@ const d = {
      {
 
           "vids": [
-            {
-                  "user": "Andrew14916",
-                  "link": "https://youtu.be/k7E0kNEfPBk",
-                  "percent": 100,
-                  "hz": "240hz"
-              },
-
+          
           ],
           "name": "Shotty Goner",
           "author": "Coboll",

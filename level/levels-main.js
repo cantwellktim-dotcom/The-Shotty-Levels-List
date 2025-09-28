@@ -106,6 +106,11 @@ const d = {
                   "percent": 100,
                   "hz": "360hz"
               },
+               "user": "GAY",
+                  "link": "https://youtu.be/k7E0kNEfPBk",
+                  "percent": 58,
+                  "hz": "360hz"
+              },
 
           ],
           "name": "Shotty Firework",
@@ -126,13 +131,6 @@ const d = {
                   "percent": 100,
                   "hz": "360hz"
               },
-              {
-                  "user": "GAY",
-                  "link": "https://youtu.be/k7E0kNEfPBk",
-                  "percent": 58,
-                  "hz": "360hz"
-              },
-
           ],
           "name": "Shotty Friday Vortex",
           "author": "Coboll",
@@ -235,7 +233,7 @@ const d = {
                   "hz": "360hz"
               },
             {
-                  "user": "Fjt4561sat",
+                  "user": "GAY",
                   "link": "https://www.youtube.com/watch?v=C0tU1ieiX3s",
                   "percent": 100,
                   "hz": "360hz"
@@ -618,7 +616,7 @@ const d = {
       "Darksonic777": "US",
       "Toonm": "US",
       "Andrew14916": "GB",
-      "Fjt4561sat": "CA",
+      "GAY": "CA",
     "Basil": "N/A",
   }
 

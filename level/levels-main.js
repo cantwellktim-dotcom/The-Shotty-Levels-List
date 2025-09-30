@@ -45,6 +45,25 @@ const d = {
           "percentToQualify": 58,
           "verificationVid": "https://youtu.be/bTU47UDkeow",
       },
+     {
+
+          "vids": [
+            {
+                  "user": "Andrew14916",
+                  "link": "https://www.youtube.com/watch?v=SNT0brYlyRc",
+                  "percent": 100,
+                  "hz": "240z"
+              },
+
+          ],
+          "name": "Shotty Slaughterhouse",
+          "author": "Andrew14916",
+          "more": "None",
+          "id": 85465928,
+          "pass": "no copy",
+          "percentToQualify": 45,
+          "verificationVid": "https://www.youtube.com/watch?v=SNT0brYlyRc",
+      },
     
     {
 

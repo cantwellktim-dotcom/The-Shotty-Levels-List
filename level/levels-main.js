@@ -50,7 +50,7 @@ const d = {
           "vids": [
            {
                   "user": "GAY",
-                  "link": "https://www.youtube.com/watch?v=CpjmEsfUFhI",
+                  "link": "https://youtu.be/bDXoXfIUqi4",
                   "percent": 57,
                   "hz": "360hz"
               },
@@ -352,7 +352,12 @@ const d = {
     {
 
         "vids": [
-
+          {
+                  "user": "Andrew14916",
+                  "link": "https://youtu.be/ogWkPIHPryw",
+                  "percent": 100,
+                  "hz": "360hz"
+              },
         ],
         "name": "Shotty The Golden",
         "author": "SirenSkull",

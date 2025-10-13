@@ -45,25 +45,6 @@ const d = {
           "percentToQualify": 58,
           "verificationVid": "https://youtu.be/bTU47UDkeow",
       },
-     {
-
-          "vids": [
-           {
-                  "user": "GAY",
-                  "link": "https://youtu.be/bDXoXfIUqi4",
-                  "percent": 57,
-                  "hz": "360hz"
-              },
-          ],
-          "name": "Shotty Slaughterhouse",
-          "author": "Andrew14916",
-          "more": "None",
-          "id": 105482901,
-          "pass": "no copy",
-          "percentToQualify": 45,
-          "verificationVid": "https://www.youtube.com/watch?v=SNT0brYlyRc",
-      },
-    
     {
 
           "vids": [

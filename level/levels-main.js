@@ -357,15 +357,7 @@ const d = {
                   "percent": 100,
                   "hz": "360hz"
               },
-            {
-
-          "vids": [
-             {
-                  "user": "Coboll",
-                  "link": "https://youtu.be/nAp6mvGmHNc",
-                  "percent": 100,
-                  "hz": "240hz"
-              },
+        
 
           ],
           "name": "Shotty Oblivion",

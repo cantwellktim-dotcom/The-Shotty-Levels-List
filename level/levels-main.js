@@ -1,5 +1,18 @@
 const d = {
   "list": [
+    {
+
+          "vids": [
+            
+          ],
+          "name": "Shotty Unknown",
+          "author": "Coboll",
+          "more": "None",
+          "id": 126708540,
+          "pass": "Free copy",
+          "percentToQualify": 66,
+          "verificationVid": "https://youtu.be/PrcpmTySXD0",
+      },
      {
 
           "vids": [
@@ -23,7 +36,7 @@ const d = {
           "more": "None",
           "id": 126708540,
           "pass": "no copy",
-          "percentToQualify": 42,
+          "percentToQualify": 72,
           "verificationVid": "https://youtu.be/8Zu-LZB-BDk",
       },
   {

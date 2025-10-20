@@ -339,6 +339,12 @@ const d = {
                   "percent": 100,
                   "hz": "360hz"
               },
+          {
+                  "user": "Coboll",
+                  "link": "https://youtu.be/nAp6mvGmHNc",
+                  "percent": 100,
+                  "hz": "240hz"
+              },
         ],
         "name": "Shotty The Golden",
         "author": "SirenSkull",

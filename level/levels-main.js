@@ -645,7 +645,7 @@ const d = {
       "SirenSkull": "US",
       "Darksonic777": "US",
       "Toonm": "US",
-      "Andrew14916": "GB",
+      "Andrew14916": "GB-SCT",
       "GAY": "CA",
     "Basil": "N/A",
   }

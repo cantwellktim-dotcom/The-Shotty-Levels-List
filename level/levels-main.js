@@ -264,6 +264,25 @@ const d = {
       },
     {
 
+        "vids": [
+            {
+                  "user": "Andrew14916",
+                  "link": "https://youtu.be/IJ1HMdpLQ_w",
+                  "percent": 100,
+                  "hz": "240hz"
+              },
+
+        ],
+        "name": "Shotty Aerial Gleam",
+        "author": "Coboll",
+        "more": "free copy",
+        "id": 100684090,
+        "pass": "None",
+        "percentToQualify": 63,
+        "verificationVid": "https://youtu.be/qQwhJEIgwp4",
+    },
+    {
+
           "vids": [
             {
                   "user": "Coboll",
@@ -287,25 +306,6 @@ const d = {
           "percentToQualify": 59,
           "verificationVid": "https://www.youtube.com/watch?v=yo-w5iF7JHg",
       },
-    {
-
-        "vids": [
-            {
-                  "user": "Andrew14916",
-                  "link": "https://youtu.be/IJ1HMdpLQ_w",
-                  "percent": 100,
-                  "hz": "240hz"
-              },
-
-        ],
-        "name": "Shotty Aerial Gleam",
-        "author": "Coboll",
-        "more": "free copy",
-        "id": 100684090,
-        "pass": "None",
-        "percentToQualify": 63,
-        "verificationVid": "https://youtu.be/qQwhJEIgwp4",
-    },
      {
 
           "vids": [
@@ -345,6 +345,26 @@ const d = {
       },
     {
 
+          "vids": [
+             {
+                  "user": "Andrew14916",
+                  "link": "https://www.youtube.com/watch?v=LNYaoqvOQs4",
+                  "percent": 100,
+                  "hz": "360hz"
+              },
+        
+
+          ],
+          "name": "Shotty Oblivion",
+          "author": "Coboll",
+          "more": "None",
+          "id": 84191804,
+          "pass": "No copy",
+          "percentToQualify": 50,
+          "verificationVid": "https://youtu.be/9Eqt9Tl3QgI",
+      },
+    {
+
         "vids": [
           {
                   "user": "Andrew14916",
@@ -367,28 +387,6 @@ const d = {
         "percentToQualify": 61,
         "verificationVid": "https://youtu.be/zEietD-3b7s",
     },
-     {
-
-          "vids": [
-             {
-                  "user": "Andrew14916",
-                  "link": "https://www.youtube.com/watch?v=LNYaoqvOQs4",
-                  "percent": 100,
-                  "hz": "360hz"
-              },
-        
-
-          ],
-          "name": "Shotty Oblivion",
-          "author": "Coboll",
-          "more": "None",
-          "id": 84191804,
-          "pass": "No copy",
-          "percentToQualify": 50,
-          "verificationVid": "https://youtu.be/9Eqt9Tl3QgI",
-      },
-
-
     {
 
           "vids": [
@@ -439,7 +437,25 @@ const d = {
           "percentToQualify": 69,
           "verificationVid": "https://www.youtube.com/watch?v=921HA7ctstY",
       },
+    {
 
+          "vids": [
+            {
+                  "user": "Andrew14916",
+                  "link": "https://youtu.be/oQi6KbHxDEE",
+                  "percent": 100,
+                  "hz": "360hz"
+              },
+
+          ],
+          "name": "Shotty Promethean",
+          "author": "SirenSkull[Coboll]",
+          "more": "none",
+          "id": 77588025,
+          "pass": "None",
+          "percentToQualify": 73,
+          "verificationVid": "https://www.youtube.com/watch?v=8-k9EsR3Ks4",
+      },
       {
 
           "vids": [
@@ -460,27 +476,6 @@ const d = {
           "percentToQualify": 62,
           "verificationVid": "https://youtu.be/fYbugtSSpM0",
       },
-
-    {
-
-          "vids": [
-            {
-                  "user": "Andrew14916",
-                  "link": "https://youtu.be/oQi6KbHxDEE",
-                  "percent": 100,
-                  "hz": "360hz"
-              },
-
-          ],
-          "name": "Shotty Promethean",
-          "author": "SirenSkull[Coboll]",
-          "more": "none",
-          "id": 77588025,
-          "pass": "None",
-          "percentToQualify": 73,
-          "verificationVid": "https://www.youtube.com/watch?v=8-k9EsR3Ks4",
-      },
-
       {
 
           "vids": [
@@ -540,38 +535,6 @@ const d = {
           "percentToQualify": 69,
           "verificationVid": "https://www.youtube.com/watch?v=ttCIxcnesxE",
       },
-
-    {
-
-          "vids": [
-            {
-                  "user": "Coboll",
-                  "link": "https://www.youtube.com/watch?v=fx2Z5ZD_Rbo",
-                  "percent": 100,
-                  "hz": "360hz"
-              },
-            {
-                  "user": "Andrew14916",
-                  "link": "https://youtu.be/oQi6KbHxDEE",
-                  "percent": 100, 
-                  "hz": "360hz"
-              },
-            {
-                  "user": "Darksonic777",
-                  "link": "https://youtu.be/0dSOb6C3khs",
-                  "percent": 100,
-                  "hz": "360hz"
-              },
-
-          ],
-          "name": "Shotty Kowareta",
-          "author": "SirenSkull",
-          "more": "none",
-          "id": 76894960,
-          "pass": "None",
-          "percentToQualify": 56,
-          "verificationVid": "https://www.youtube.com/watch?v=pJmViliNNA4",
-      },
     {
 
           "vids": [
@@ -621,7 +584,37 @@ const d = {
           "percentToQualify": 45,
           "verificationVid": "https://www.youtube.com/watch?v=0pCHyx2Ajzw",
       },
+ {
 
+          "vids": [
+            {
+                  "user": "Coboll",
+                  "link": "https://www.youtube.com/watch?v=fx2Z5ZD_Rbo",
+                  "percent": 100,
+                  "hz": "360hz"
+              },
+            {
+                  "user": "Andrew14916",
+                  "link": "https://youtu.be/oQi6KbHxDEE",
+                  "percent": 100, 
+                  "hz": "360hz"
+              },
+            {
+                  "user": "Darksonic777",
+                  "link": "https://youtu.be/0dSOb6C3khs",
+                  "percent": 100,
+                  "hz": "360hz"
+              },
+
+          ],
+          "name": "Shotty Kowareta",
+          "author": "SirenSkull",
+          "more": "none",
+          "id": 76894960,
+          "pass": "None",
+          "percentToQualify": 56,
+          "verificationVid": "https://www.youtube.com/watch?v=pJmViliNNA4",
+      },
 
 
 

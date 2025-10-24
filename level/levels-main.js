@@ -365,6 +365,20 @@ const d = {
       },
     {
 
+          "vids": [
+        
+
+          ],
+          "name": "Shotty Carcano",
+          "author": "Coboll",
+          "more": "None",
+          "id": 127258161,
+          "pass": "no copy",
+          "percentToQualify": 59,
+          "verificationVid": "https://www.youtube.com/watch?v=nJmkmpXtysc",
+      },
+    {
+
         "vids": [
           {
                   "user": "Andrew14916",
